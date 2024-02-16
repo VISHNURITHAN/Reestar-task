@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0px;
+    margin-bottom: 0;
+}
+.head{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.container-one{
+    display: inline-block;
+    border: solid black 2px;
+    text-align: center;
+}
+.container-two{
+    display: inline-block;
+    display: inline-block;
+    border: solid black 2px;
+    text-align: center;
+    
+}
+.container-three{
+    display: inline-block;
+    display: inline-block;
+    border: solid black 2px;
+    text-align: center;
+}
+.container-four{
+    display: inline-block;
+    display: inline-block;
+    border: solid black 2px;
+    text-align: center;
+}
+.container{
+    padding:10px;
+    padding-left: 300px;
+    border-bottom: none;
+}
+.container-one__button,
+.container-two__button,
+.container-three__button,
+.container-four__button{
+    color: white;
+    background-color: black;
+    border: none;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.container-one__button:hover,
+.container-two__button:hover,
+.container-three__button:hover,
+.container-four__button:hover{
+    background-color: blue;
+}
+.contact-one{
+    background-color: black;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.con{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 40px;
+}
+.button{
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    background-color: yellow;
+    color: solid black;
+}
